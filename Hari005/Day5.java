@@ -5,6 +5,7 @@ public class Day5 {
         // komentar baris tunggal
         System.out.println("Mila");
        /* komentar multi baris
+        jbajbaj
         */
        /**komentar dokumentasi
         * ajkjak
