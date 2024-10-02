@@ -10,7 +10,7 @@ public class Day30 {
         System.out.println(a.add(b));
         System.out.println(b.multiply(a));
         /*
-        disini sya membuat codingan dgn tipe data BigDecimalmenggunakan 2 method. Method add() untuk
+        disini sya membuat codingan dgn tipe data BigDecimal menggunakan 2 method. Method add() untuk
         menjumlahkan variabel a dgn b dan outputnya 272.420.Method multiply() untuk mengalikan variabel
         a dgn b dan outputnya 18439.635075
          */
