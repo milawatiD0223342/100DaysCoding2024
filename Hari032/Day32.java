@@ -1,6 +1,7 @@
 package Hari032;
 
 public class Day32 {
+
     public static void main(String[] args) {
         byte a = 1;
         short b = 2;
