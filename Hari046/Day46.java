@@ -1,13 +1,13 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 package Hari046;
 
-/**
- *
- * @author mwati
- */
 public class Day46 {
-    
+    public static void main(String[] args) {
+         boolean a = true;
+        boolean b = false;
+        /*
+        negasi/kebalikan
+        */
+        System.out.println("a : "+!a);
+        System.out.println("b : "+!b);
+    }
 }
