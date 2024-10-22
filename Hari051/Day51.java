@@ -1,13 +1,21 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 package Hari051;
 
-/**
- *
- * @author mwati
- */
 public class Day51 {
-    
+
+    public static void main(String[] args) {
+        char inisial = 'M';
+        switch (inisial) {
+            case 'S':
+                System.out.println("Inisial S");
+                break;
+            case 'L':
+                System.out.println("Inisial L");
+                break;
+            case 'M':
+                System.out.println("Inisial M");
+                break;
+            default:
+                System.out.println("Inisial benar");
+        }
+    }
 }
