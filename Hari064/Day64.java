@@ -11,6 +11,6 @@ public class Day64 {
             }
             System.out.println("i = " + i);
             i++;
-    }
+        }
     }
 }
