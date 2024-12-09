@@ -21,9 +21,10 @@ public class Day98 {
             if (i % 2 == 0) {
                 total += i;
             }
+        }
             System.out.println("Total penjumlahan bilangan genap dari " + start + " ke " + end + " adalah: " + total);
 
             scanner.close();
-        }
+        
     }
 }
